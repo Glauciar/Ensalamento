@@ -1,0 +1,32 @@
+/* Aplicativo */
+
+.App {
+  display: flex;
+}
+
+.vertical-navbar {
+  background-color: #f2f2f2;
+  width: 200px;
+  padding: 20px;
+}
+
+.vertical-navbar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.vertical-navbar li {
+  margin-bottom: 10px;
+}
+
+.App-header {
+  text-align: center;
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.App-logo {
+  height: 80px;
+  pointer-events: none;
+}
